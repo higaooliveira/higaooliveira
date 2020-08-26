@@ -1,16 +1,15 @@
-### Hi there 👋
+### About Me :nerd_face: :computer:
 
-<!--
-**higaooliveira/higaooliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A very passionated Software Engineer with software background, architecting, developing, delivering optimized and scalable products.
 
-Here are some ideas to get you started:
+My personal-paradigm when it comes to solving problem is: try to make the complex simple, being an out-of-the-box, non-linear thinker, always trying to preview and visualize dynamic data structures and abstract algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a very science/engineering guided professional, trying to explain all solutions through two perspectives: know-why, know-how. 
+
+### Technologies
+- Python
+- PHP
+- Magento
+- Java
+- Kotlin
+- Javascript
