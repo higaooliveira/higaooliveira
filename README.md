@@ -14,7 +14,7 @@ I'm a very science/engineering guided professional, trying to explain all soluti
 - Kotlin
 - Javascript
 
-In my free time I like to play videgames (:video_games:), to watch soccer (soccer), to watch movies (film_strip), to listen to music (musical_note) and eventually I like to philosophize about life with a beer (beer).
+In my free time I like to play videgames (:video_game:), to watch soccer (:soccer:), to watch movies (:film_strip:), to listen to music (:musical_note:) and eventually I like to philosophize about life with a beer (:beer:).
 
 Would you like to find me?
 
