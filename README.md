@@ -1,6 +1,6 @@
 ### Hi There ! :nerd_face: :computer:
 
-My name is Higor, I'm a Brazilian (:brazil:) very passionated Software Engineer with software background, architecting, developing, delivering optimized and scalable products.
+My name is Higor, I'm a Brazilian :brazil: very passionated Software Engineer with software background, architecting, developing, delivering optimized and scalable products.
 
 My personal-paradigm when it comes to solving problem is: try to make the complex simple, being an out-of-the-box, non-linear thinker, always trying to preview and visualize dynamic data structures and abstract algorithms.
 
@@ -14,7 +14,7 @@ I'm a very science/engineering guided professional, trying to explain all soluti
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide" target="_blank"> <img align="left" alt="git" width="26px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"/> </a>
 <br/><br/>
-In my free time I like to play videgames (:video_game:), to watch soccer (:soccer:), to watch movies (:film_strip:), to listen to music (:musical_note:) and eventually I like to philosophize about life with a beer (:beer:).
+In my free time I like to play videgames :video_game:, to watch soccer :soccer:, to watch movies :film_strip:, to listen to music :musical_note: and eventually I like to philosophize about life with a beer :beer:.
 
 Would you like to find me?    
 
