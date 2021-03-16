@@ -1,6 +1,6 @@
 ### Hi There ! :nerd_face: :computer:
 
-My name is Higor from Brazil (:brazil:), a very passionated Software Engineer with software background, architecting, developing, delivering optimized and scalable products.
+My name is Higor, I'm a Brazilian (:brazil:) very passionated Software Engineer with software background, architecting, developing, delivering optimized and scalable products.
 
 My personal-paradigm when it comes to solving problem is: try to make the complex simple, being an out-of-the-box, non-linear thinker, always trying to preview and visualize dynamic data structures and abstract algorithms.
 
